@@ -23,7 +23,6 @@ const config: DocsThemeConfig = {
     link: 'https://discord.gg/WSBbXqPh',
   },
   docsRepositoryBase: 'https://github.com/Open-Nice/Owlracle',
-  darkMode: false,
   primaryHue: 220,
   footer: {
     text: 'Owlracle © 2023',
