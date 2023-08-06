@@ -1,17 +1,17 @@
 {
-  "index": "🚀 Getting Started",
-  "examples": "🎨 Examples",
-  "limitations": "⚠️ Limitations",
-  "roadmap": "🛣️ Roadmap",
-  "privacy": "🔒 Privacy Policy", 
+  "index": "Getting Started",
+  "examples": "Examples",
+  "limitations": "Limitations",
+  "roadmap": "Roadmap",
+  "privacy": "Privacy Policy", 
   "about": {
-    "title": "🏠 Product",
+    "title": "Product",
     "type": "page",
     "href": "https://www.owlracle.com/",
     "newWindow": true
   },
   "email": {
-    "title": "✉️ Email",
+    "title": "Email",
     "type": "page",
     "href": "mailto:yc127@rice.edu",
     "newWindow": true
