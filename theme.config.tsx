@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   </div>,
   head: (
     <head>
-      <link rel="icon" type="image/png" href="./favicon.png" />
+      <link rel="icon" type="image/png" href="https://owlracle-documentation-deploy.vercel.app/favicon.ico" />
       <meta property="og:title" content="Owlracle Documentation" />
       <meta property="og:description" content="The official documentation for Owlracle." />
       <meta property="og:image" content="https://owlracle-documentation-deploy.vercel.app/banner.png" />
