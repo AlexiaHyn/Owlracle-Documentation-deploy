@@ -1,4 +1,4 @@
-# ❌ Limitations of Owlracle
+# Limitations of Owlracle
 
 - 🔢 Owlracle, just like many retrieval-augmented LLM will not perform as well as a LLM that is pre-trained on the database. One phenomenon is that as the number of data increases, the retrieval quality could deteriorate. We address this by having a specific way of prompt engineering and limit our number of database under 5 (Courses, Events, Clubs, Faculties, FAQ). 
 - 📒 Similarly, Owlracle’s reasoning capabilities are limited by the bottleneck of retrieval context length and retrieval quality. Hypothetically if the retrieval data were internalized/pre-trained by the LLM, Owlracle could answer questions that involve complex planning by utilizing its pre-trained knowledge. We are working on addressing this problem by fine-tuning Llama-2 which is an open-sourced LLM that is equally powerful for many of our tasks.
