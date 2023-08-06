@@ -20,7 +20,7 @@ const config: DocsThemeConfig = {
     link: 'https://github.com/Open-Nice/Owlracle',
   },
   chat: {
-    link: 'https://discord.gg/WSBbXqPh',
+    link: 'https://discord.gg/aHRxTK5jHG',
   },
   docsRepositoryBase: 'https://github.com/Open-Nice/Owlracle',
   primaryHue: 220,
