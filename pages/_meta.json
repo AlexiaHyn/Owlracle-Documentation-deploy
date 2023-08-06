@@ -1,11 +1,29 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "contact": {
+  "index": "🚀 Getting Started",
+  "examples": "🎨 Examples",
+  "recipes": "🍲 Recipes",
+  "commenting": "💬 Responding to Sweep",
+  "tricks": "🎩 Tips & Tricks",
+  "limitations": "⚠️ Limitations",
+  "roadmap": "🛣️ Roadmap",
+  "blogs": "📝 Blogs",
+  "videos": "📺 Videos",
+  "privacy": "🔒 Privacy Policy", 
+  "about": {
+    "title": "🏠 Home",
+    "type": "page",
+    "href": "https://sweep.dev"
+  },
+  "email": {
     "title": "✉️ Email",
     "type": "page",
-    "href": "mailto:yc127@rice.edu",
+    "href": "mailto:team@sweep.dev",
+    "newWindow": true
+  },
+  "payment": {
+    "title": "💎 Sweep Pro",
+    "type": "page",
+    "href": "https://buy.stripe.com/9AQ8zB26letOgzC5kp",
     "newWindow": true
   }
 }
