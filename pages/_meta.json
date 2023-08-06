@@ -10,20 +10,21 @@
   "videos": "📺 Videos",
   "privacy": "🔒 Privacy Policy", 
   "about": {
-    "title": "🏠 Home",
+    "title": "🏠 Product",
     "type": "page",
-    "href": "https://sweep.dev"
+    "href": "https://www.owlracle.com/",
+    "newWindow": true
   },
   "email": {
     "title": "✉️ Email",
     "type": "page",
-    "href": "mailto:team@sweep.dev",
+    "href": "mailto:yc127@rice.edu",
     "newWindow": true
   },
-  "payment": {
-    "title": "💎 Sweep Pro",
+  "donate": {
+    "title": "💎 Support us",
     "type": "page",
-    "href": "https://buy.stripe.com/9AQ8zB26letOgzC5kp",
+    "href": "https://buy.stripe.com/9AQ2areKfgPl3sI000",
     "newWindow": true
   }
 }
