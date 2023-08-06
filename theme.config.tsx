@@ -15,7 +15,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/Open-Nice/Owlracle',
   footer: {
-    text: 'Owlracle Documentation',
+    text: 'Owlracle @ 2023',
   },
 }
 
