@@ -2,16 +2,20 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: 
+  <div style={{display: "flex", alignItems: "center", fontWeight: "bold", backgroundColor: "white", borderRadius: "5px", padding: "5px"}}>
+    <img width={50} src="/logo.png" placeholder='Owlracle Logo' />
+    <div style={{color: "black", marginLeft: "5px"}}>Owlracle</div>
+  </div>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/Mr-Ye-Cao/Owlracle.git',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/WSBbXqPh',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/Mr-Ye-Cao/Owlracle.git',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Owlracle Documentation',
   },
 }
 
