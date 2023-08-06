@@ -8,12 +8,12 @@ const config: DocsThemeConfig = {
     <div style={{color: "black", marginLeft: "5px"}}>Owlracle</div>
   </div>,
   project: {
-    link: 'https://github.com/Mr-Ye-Cao/Owlracle.git',
+    link: 'https://github.com/Open-Nice/Owlracle',
   },
   chat: {
     link: 'https://discord.gg/WSBbXqPh',
   },
-  docsRepositoryBase: 'https://github.com/Mr-Ye-Cao/Owlracle.git',
+  docsRepositoryBase: 'https://github.com/Open-Nice/Owlracle',
   footer: {
     text: 'Owlracle Documentation',
   },
